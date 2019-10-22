@@ -1,6 +1,6 @@
 # Srver that simulates errors :) njoy ;)
 
-## Simple node/express server for testing that returns:     
+## Simple node/express server for testing:     
 {   
   '[HOST]:1000/': 'not responding ever',  
   '[HOST]:1000/404': '404 not found',  
