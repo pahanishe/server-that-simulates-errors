@@ -9,7 +9,7 @@ Simple node/express server for testing that returns:
   '[HOST]:1000/504': '504 timeout error'
 }
 
-#To run do the following:
+# To run do the following:
 git clone [this repo]
 npm install
 npm start
